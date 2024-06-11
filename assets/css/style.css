@@ -1,0 +1,50 @@
+body {
+    background-image:url("../img/fondo-kirby.jpg");
+    
+}
+
+
+.cuerpito {
+    display: flex;
+}
+
+.ojo1 {
+    display: flex;
+    justify-content: center;
+    transform: translateY(-660px) translateX(230px);
+    
+    
+}
+
+.ojo2 {
+    display: flex;
+    justify-content: center;
+    transform: translateY(-750px) translateX(400px);
+}
+
+.boquita {
+    display: flex;
+    justify-content: center;
+    transform: translateY(-750px) translateX(270px);
+}
+
+
+.brazo1 {
+    display: flex;
+    justify-content: center;
+    transform: translateY(-700px) translateX(200px);
+
+}
+
+.brazo2{
+    display: flex;
+    justify-content: center;
+    transform: translateY(-900px) translateX(380px);
+}
+
+.cola {
+    display: flex;
+    justify-content: center;
+    transform: translateY(-1400px) translateX(490px);
+}
+
